@@ -1,0 +1,10 @@
+This file (location.portable.txt) is used to indicate that 
+the application is running in portable mode. If this file 
+is found in the application's folder, all config and data 
+will be stored in the program folder itself, rather than 
+in the users home directory.
+
+The contents of this file are irrelevant. It could
+also be completely empty. It is only checked if
+there is a file "location.portable.txt" or not.
+
